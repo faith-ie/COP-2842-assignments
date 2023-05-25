@@ -10,7 +10,7 @@
         <option value="Other">Other</option>
       </select>
     </p>
-    <p>Date and Time: <input type="date" name="datetime" size="20" required></p>
+    <p>Date and Time: <input type="datetime-local" name="datetime" size="20" required></p>
     <p>Full name:
       <input type="text" size="20" name="name" required>
     <p>Description: <textarea name="Description" rows="3" cols="30" required></textarea></p>
